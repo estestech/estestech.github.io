@@ -60,10 +60,18 @@ p {
 font-family:"Comic Sans MS";
 }
 
-h2 {
+h1 {
 font-family:"Arial";
 align:"center";
 font-size: 72;
+background-color:#480048;
+color: #ffffff;
+}
+
+h2 {
+font-family:"Arial";
+align:"center";
+font-size: 60;
 background-color:#480048;
 color: #cccc00;
 }
